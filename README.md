@@ -226,10 +226,10 @@ In a fab producing millions of chips, even a **1% improvement in yield** transla
 
 ## 🙋 Author
 
-**[Your Name]**
-- 🎓 [Your University / Institution]
+**VASANTH A]**
+- 🎓 Indian Institute of Technology, Madras
 - 💼 [LinkedIn Profile URL]
-- 📧 [Your Email]
+- 📧 vasanthanandharaj16@gmail.com
 
 *Interested in yield management, semiconductor test engineering, and ML-driven manufacturing analytics.*
 
